@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "embdeltaclinic",
+  "private_key_id": "be27aa8280f87cdf153b459fab58b38fabf038ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDedVUMxo3XORWd\nwZEbK3amA7RCAQvlaHBb2D25cOif6b//Z0uHMmHTHrSdcCY3APRlf+g0eS1Up2wU\nvBNHeempzQZMG+tXXcGRe7+pYbp3AEO+sVkRvt2LN4EejlJBPE7MeIFlty8ZysSd\nZyDjyMMjLp5kfQ+TvVcI4jWh3jB8fqGEY+7rxLJ0tnqkPh0qcUSIwzCgJe9pCWtM\ngJifPAF/2nK85B9Qa03U70J6aixBKAWkdgfqp1VcGuwjjYH43o5lHNIvugojDqRr\n1SR4dm6JUS7XtCoYbGPe7iX7FW02N+MXOq2YDOzq3a8lV7fvQNdL7OWholdYWzF8\nFeeLfAlxAgMBAAECggEACOP2jLFTZ4e8AeyDperUQz6VpyekjTwMdYHhtvYODfSz\nvCYpghM04/uaVfUZSeHLYqe8eiW3oTukWaXJ6CA1WEMTM9p6dX46kgZjOrE8WFeA\niEVNMnoxdMgN7HsyoAckJ7l52RH7m2kboiYbeI8ETB/SVmDFzRk9j7jT/OPvhczK\nCGs5PwMOOHgv2G9EQ6CrailRhn6KmgzbCPqmdTWrkUjJu0TV5QZ1BB15HEvx0FEK\nN0X08ahf35Ns/LN6pt7Ru7yqQ+MTiioxjMxO0xkJdBy/eGCe7TNSUOTXTCbG2CZr\nLdcjaOH1OenJXWAvsNVrVUYH93+srFSwnNPzIiMIoQKBgQDyGYFJrbeItYQ5xg21\nfx8yvLap+FrxLsB5F1D0Zg8lSdePYagjqEEDGQpjtYS27Fv8lF0dWst+Fxi/p8mf\nxA8fDvrR9VbB0SrGS8HKzql5gODq9zaGXyXHXb3/lUJ8z/simjxPwFG2lO11NEGl\ndUaIeyqWTSQ0hMK6rgqQqCzByQKBgQDrOyFMMY9ZAI++lWTGU0+v4IkUIzeOwuot\niVKwFHotx8HbMH+nF4oOy5128Ro6SVOl25PFknNJnXerKOJT+ancEV2bPX+aGwSw\nCo3KnLuvP2HCQpTOmcM+7dxZ18Q2kXpxdKNpEIghxhhOOTKjfVbNrkUMLdawWuHs\nBvS/rJMeaQKBgDD/mHsg/ZRdqHVI8F1bbSUHrLCZ404M+EeJwIi2Xzpcx5PtX+pX\nk1DdMI0dn86l57gnDvFx/t12Lzwa6WO8epL+pST5UqXHf7DChGZXjVVaECt9/TsU\n5sCC6IFh5CL+tQU70hkSA3fAjI68FM03/x6ATw48bqdydzbxIpJEd0qBAoGAOkWk\nowZn92lfMpw5obPDutMJwjZTLgd1EaDCHiKEfdDNYioqhU8cgTvJn0xs7eF6Wk0B\n12DHNIZQvdLb9meTv5OBt9JNSPTGfYGvzHB1Qh2WbxQlXuTSbEVqX8tGrSnuxipZ\nzM4umwdCwCYFOGD1XvB75F96nqd07g5vFQiATXkCgYEAuTAhZqy3nBrrwtuVT0XQ\n/C47YIO1k13xYzR2DKReNz6hK3Tg7eDerRWxfZ32OfeoTbvhmNqAgdBM+kzdWpDi\nq7rGK5JbCSGpxKm45uiFCUH1NF7yHZRfgiUuxTH5OQ64MGEupuDvi3VLCWsQdsIA\nGMlocdmhl5q+Up9tv+Lq80U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "embdeltaclinic@embdeltaclinic.iam.gserviceaccount.com",
+  "client_id": "102882149549602609727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/embdeltaclinic%40embdeltaclinic.iam.gserviceaccount.com"
+}
